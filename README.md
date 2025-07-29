@@ -1,4 +1,4 @@
-# 📊 Lab 5: ML Life Cycle – Evaluation & Deployment
+# 📊 Airbnb Superhost Classification using Logistic Regression🏡💰
 
 **Project:** Classify whether an Airbnb host is a **Superhost** using logistic regression.
 
@@ -65,4 +65,3 @@ Given **preprocessed Airbnb data**, build and tune a logistic regression model t
 
 Harsharandeep Dhillon  
 
-Add README for Airbnb Logistic Regression Project
