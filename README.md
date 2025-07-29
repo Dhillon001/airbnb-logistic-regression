@@ -1,4 +1,4 @@
-# 📊 Airbnb Superhost Classification using Logistic Regression🏡💰
+# 📊 Airbnb Superhost Classification 🏡💰
 
 **Project:** Classify whether an Airbnb host is a **Superhost** using logistic regression.
 
